@@ -6,6 +6,10 @@
 **数据仓库**
 * 《数据仓库工具箱  维度建模权威指南（第3版）》[百度云链接](https://pan.baidu.com/s/1dxpNQz8BWzVGqfaffVc4GQ)  提取码：l7wz
 
+
+**算法&机器学习**
+* 《《美团机器学习实践》_美团算法团队》[百度云链接](https://pan.baidu.com/s/18U2ytWItjL-affA7p8NreA) 提取码：232r
+
 站外书籍资源连接：
 * [开发者头条网](https://toutiao.io/under-maintenance/)
 * [github 阿秀仓库](https://github.com/forthespada/CS-Books#01%E3%80%81C++)
