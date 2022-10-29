@@ -1,5 +1,15 @@
 # CS-Books
 
+
+**操作系统**
+* 《Linux命令行与shell脚本编程大全  第3版  ,布鲁姆 ,P606》  [百度云链接](https://pan.baidu.com/s/17O5tboltnbzYO7PK998TaQ)  提取码：l5un
+
+
+
+
+
+
+
 **用户分析**
 * 《用户画像：方法论与工程化解决方案（从技术、产品、运营3个维度详尽阐述从0到1搭建用户画像系统的技术栈和方法论）》 [百度云连接](https://pan.baidu.com/s/1u9NeJLzXIMxGo00b1glTvA) 提取码：hqgk 
 
@@ -9,6 +19,9 @@
 
 **算法&机器学习**
 * 《《美团机器学习实践》_美团算法团队》[百度云链接](https://pan.baidu.com/s/18U2ytWItjL-affA7p8NreA) 提取码：232r
+
+
+
 
 站外书籍资源连接：
 * [开发者头条网](https://toutiao.io/under-maintenance/)
