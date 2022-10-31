@@ -16,8 +16,7 @@
 **数据仓库&OLAP**
 * 《数据仓库工具箱  维度建模权威指南（第3版）》[百度云链接](https://pan.baidu.com/s/1dxpNQz8BWzVGqfaffVc4GQ)  提取码：l7wz
 * 《ClickHouse原理解析与应用实践》[百度云链接](https://pan.baidu.com/s/1WE0Yc3SRBUGkiEyFEJGzCg)  提取码：qqc1
-
-
+* 《阿里巴巴大数据之路》   [百度云链接](https://pan.baidu.com/s/1KXubStznBDZFfV5RsMsugQ)  提取码：auj6
 
 
 
