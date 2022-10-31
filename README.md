@@ -25,6 +25,10 @@
 * 《深入浅出统计学》  [百度云链接](https://pan.baidu.com/s/1WUvaS6tam61IR1NvgDdgOQ)  提取码：3jch
 * 《统计学：从数据到结论》  [百度云链接](https://pan.baidu.com/s/1e1S7j3rOtsw5DP7M2Biemw)  提取码：rhep
 
+**技术发展**
+* 《尽在双11：阿里巴巴技术演进与超越》  [百度云链接](https://pan.baidu.com/s/1Tbj_HOKOn0jcWb8ieHPb1w)  提取码：ojkb
+
+
 
 
 
