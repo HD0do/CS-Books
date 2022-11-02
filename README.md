@@ -1,13 +1,15 @@
 # CS-Books
 
 
+
+
+
+**组件快速学习教程**
+* 《kafka3.x学习教程》  [百度云链接](https://pan.baidu.com/s/1kW0BuAxZ_vdvGE_GCxp_1w)  提取码：cprl
+
+
 **操作系统**
 * 《Linux命令行与shell脚本编程大全  第3版  ,布鲁姆 ,P606》  [百度云链接](https://pan.baidu.com/s/17O5tboltnbzYO7PK998TaQ)  提取码：l5un
-
-
-
-
-
 
 
 **用户分析**
