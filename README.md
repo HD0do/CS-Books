@@ -51,16 +51,15 @@
 <br/>
 
 *** 
+## 更多发现
+<br/>
+
 站外书籍资源连接：
 * [开发者头条网](https://toutiao.io/under-maintenance/)
 * [github 阿秀书籍仓库](https://github.com/forthespada/CS-Books#01%E3%80%81C++)
 
 
---- 
-## 更多发现
-<br/>
-
-投资网站整理
+数据网站整理
 
 精选文章
 
