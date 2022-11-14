@@ -11,6 +11,9 @@
 **组件快速学习教程**
 * 《kafka3.x学习教程》  [百度云链接](https://pan.baidu.com/s/1kW0BuAxZ_vdvGE_GCxp_1w)  提取码：cprl
 * 《Hudi 快速学习教程》   [百度云链接](https://pan.baidu.com/s/19XMvpjQ4g2zLaOa_mG68dA)  提取码：x954
+* 《Flink 快速学习教程》   [百度云链接](https://pan.baidu.com/s/1qZHv97DfKJE4jYCDdBrXew)  提取码：ujau
+
+
 
 
 
