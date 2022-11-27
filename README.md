@@ -65,7 +65,7 @@
 数据网站整理
 
 精选文章
-* [2022最新超详细java、python、go等学习路线](https://tobebetterjavaer.com/xuexiluxian/java/yitiaolong.html)
+* [最新超详细java、python、go等程序开发学习路线](https://tobebetterjavaer.com/xuexiluxian/java/yitiaolong.html)
 
 <br/>
 精选书籍
