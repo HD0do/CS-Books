@@ -12,11 +12,7 @@
 * 《kafka3.x学习教程》  [百度云链接](https://pan.baidu.com/s/1kW0BuAxZ_vdvGE_GCxp_1w)  提取码：cprl
 * 《Hudi 快速学习教程》   [百度云链接](https://pan.baidu.com/s/19XMvpjQ4g2zLaOa_mG68dA)  提取码：x954
 * 《Flink 快速学习教程》   [百度云链接](https://pan.baidu.com/s/1qZHv97DfKJE4jYCDdBrXew)  提取码：ujau
-
-
-
-
-
+* 《Flink 快速入门学习教程》[百度云链接](https://pan.baidu.com/s/1-_J-Hf8pjiazlLPqjY4TPw)  提取码：39ym
 
 **操作系统**
 * 《Linux命令行与shell脚本编程大全  第3版  ,布鲁姆 ,P606》  [百度云链接](https://pan.baidu.com/s/17O5tboltnbzYO7PK998TaQ)  提取码：l5un
