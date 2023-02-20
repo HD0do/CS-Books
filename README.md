@@ -27,6 +27,10 @@
 * 《阿里巴巴大数据之路》   [百度云链接](https://pan.baidu.com/s/1KXubStznBDZFfV5RsMsugQ)  提取码：auj6
 * 《数据仓库》     [百度云链接](https://pan.baidu.com/s/1YhVdngNw3cBY1NKPaof9jw)   提取码：qyux
 
+**数据治理**
+* 《华为数据之道》 [百度云链接](https://pan.baidu.com/s/1ynP8h6ujkmkD3V7cvwEUMQ) 提取码：1i6k
+
+
 
 **算法&机器学习**
 * 《《美团机器学习实践》_美团算法团队》[百度云链接](https://pan.baidu.com/s/18U2ytWItjL-affA7p8NreA) 提取码：232r
