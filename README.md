@@ -55,7 +55,7 @@
 站外书籍资源连接：
 * [开发者头条网](https://toutiao.io/under-maintenance/)
 * [github 阿秀书籍仓库](https://github.com/forthespada/CS-Books#01%E3%80%81C++)
-
+* [码农书籍网](https://www.manongbook.com/bigdata/index_10.html)
 
 数据网站整理
 * [国内开源CDH平台-Ucloud](https://www.ucloud.cn/site/product/usdpdc.html)
