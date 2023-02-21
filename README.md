@@ -29,7 +29,8 @@
 
 **数据治理**
 * 《华为数据之道》 [百度云链接](https://pan.baidu.com/s/1ynP8h6ujkmkD3V7cvwEUMQ) 提取码：1i6k
-
+* 《DAMA 数据管理知识体系指南（中文版）》 [百度云链接](https://pan.baidu.com/s/10Jyw6TYraEmrg9GOOv4oHA) 提取码：b97f
+* 《大数据治理》 [百度云链接](https://pan.baidu.com/s/19GXtrEe4oX0hS2j_VPwTIA)   提取码：9kh4
 
 
 **算法&机器学习**
