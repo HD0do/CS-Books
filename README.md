@@ -68,6 +68,8 @@
 精选文章
 * [最新超详细java、python、go等程序开发学习路线](https://tobebetterjavaer.com/xuexiluxian/java/yitiaolong.html)
 
+java
+* [Java线程池实现原理及其在美团业务中的实践](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
 
 
 <br/>
