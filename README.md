@@ -26,6 +26,7 @@
 * 《ClickHouse原理解析与应用实践》[百度云链接](https://pan.baidu.com/s/1WE0Yc3SRBUGkiEyFEJGzCg)  提取码：qqc1
 * 《阿里巴巴大数据之路》   [百度云链接](https://pan.baidu.com/s/1KXubStznBDZFfV5RsMsugQ)  提取码：auj6
 * 《数据仓库》     [百度云链接](https://pan.baidu.com/s/1YhVdngNw3cBY1NKPaof9jw)   提取码：qyux
+* 《数据中台：让数据用起来》[百度云链接](https://pan.baidu.com/s/1QaJ65hFe7l7pKfpZCkvMwg) 提取码：mqxp
 
 **数据治理**
 * 《华为数据之道》 [百度云链接](https://pan.baidu.com/s/1ynP8h6ujkmkD3V7cvwEUMQ) 提取码：1i6k
